@@ -1,0 +1,3 @@
+/kotlin/**/*.jar
+/rust/target
+/rust/*.lock
