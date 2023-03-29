@@ -1,7 +1,5 @@
 struct Solution;
 
-// [9,9,1] + [1] = [0,0,2]
-
 impl Solution {
   pub fn add_two_numbers(l1: Option<Box<ListNode>>, l2: Option<Box<ListNode>>) -> Option<Box<ListNode>> {
     
